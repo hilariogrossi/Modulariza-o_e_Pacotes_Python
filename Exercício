@@ -1,0 +1,5 @@
+from Utilidades_Curso_em_Vídeo import Moeda
+from Utilidades_Curso_em_Vídeo import Dados
+
+preços = Dados.leiaDinheiro('Digite o preço: R$ ')
+Moeda.resumo(preços, 25, 25)
