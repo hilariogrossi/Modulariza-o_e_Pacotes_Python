@@ -1,1 +1,2 @@
-# Modulariza-o_e_Pacotes_Python
+# Exercício de Modularizaçãoo e Pacotes em Python.
+# Curso em Vídeo - Proessor Gustavo Guanabara.
